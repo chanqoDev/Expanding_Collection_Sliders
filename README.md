@@ -1,28 +1,12 @@
 # These are a clickable collactions that expand to display and user icon-image or description
 
-## Connect to Git
+## Download and install depencies for swiper expanding collections. 
 
-It is possible to connect this project folder to the new repository. For example for GitHub:
-
-1. Create new GitHub repository at https://github.com/new
-
-2. Initialize Git. In terminal run:
-
-   ```
-   git init
-   ```
-
-3. Add remote origin. Replace $USERNAME and $REPOSITORY with your GitHub username and newly created repository name:
-   ```
-   git remote add origin https://github.com/$USERNAME/$REPOSITORY.git
-   ```
-
-That is all, after that you can track, commit and push/pull to repo, for example:
-
+ 
 ```
-git add .
-git commit -m "initial commit"
-git push origin master
+npm -install or npm -i
+npm start
+view on Localhost300
 ```
 <details> 
 <summary> # Expanding Collection </summary> 
@@ -88,10 +72,6 @@ npm run build
 ```
 
 And production-ready project will be available in `/dist/` folder.
-
-## Connect to Git
-
-It is possible to connect this project folder to the new repository. For example for GitHub:
 
 1. Create new GitHub repository at https://github.com/new
 
