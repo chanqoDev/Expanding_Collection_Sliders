@@ -1,4 +1,7 @@
-# Expanding Collection
+# These are a clickable collactions that expand to display and user icon-image or description
+
+<details> 
+<summary> # Expanding Collection </summary> 
 
 Expanding Collection is an expandable content cards slider based on [Swiper](https://swiperjs.com).
 
@@ -87,3 +90,6 @@ git commit -m "initial commit"
 git push origin master
 ```
 # Expanding_Collection_Sliders
+
+
+</details> 
